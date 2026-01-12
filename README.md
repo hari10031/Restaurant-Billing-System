@@ -126,41 +126,5 @@ Restaurant Billing System/
 
 ---
 
-## 🏪 Restaurant Details
-
-| Info | Details |
-|------|---------|
-| **Name** | Hyderabadi Dastarkhwan |
-| **Location** | Jubilee Hills, Hyderabad - 500033 |
-| **Phone** | +91-40-23456789 |
-| **Email** | info@hyderabadidastarkhwan.com |
-| **Hours** | 11:00 AM - 11:00 PM |
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by the rich culinary heritage of Hyderabad
-- Traditional recipes from the Nizami kitchen
-- Built with ❤️ for authentic Indian cuisine lovers
-
----
-
-**Shukriya! Thank you for using Hyderabadi Dastarkhwan Billing System!** 🍛
 
 
