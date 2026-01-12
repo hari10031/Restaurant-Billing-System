@@ -1,0 +1,63 @@
+[
+    {
+        "customer": {
+            "name": "10",
+            "phone": "10104"
+        },
+        "timestamp": "2025-01-15 15:32:46",
+        "total": 5200.0,
+        "discount": 0.0,
+        "order": {
+            "Bhaji Pav": {
+                "quantity": 10,
+                "price": 30.0
+            },
+            "Veg. Sandwich": {
+                "quantity": 140,
+                "price": 35.0
+            }
+        }
+    },
+    {
+        "customer": {
+            "name": "raju",
+            "phone": "1234567890"
+        },
+        "timestamp": "2026-01-12 18:45:51",
+        "total": 228.0,
+        "discount": 252.0,
+        "order": {
+            "Pani Puri": {
+                "quantity": 5,
+                "price": 30.0
+            },
+            "Bhel Puri": {
+                "quantity": 5,
+                "price": 30.0
+            },
+            "Kutchi Dabeli (Double-Roti)": {
+                "quantity": 6,
+                "price": 20.0
+            },
+            "Raj Kachori": {
+                "quantity": 1,
+                "price": 60.0
+            }
+        }
+    },
+    {
+        "customer": {
+            "name": "101",
+            "phone": "1110"
+        },
+        "timestamp": "2026-01-12 18:53:18",
+        "total": 608.0,
+        "discount": 152.0,
+        "order": {
+            "Fish Biryani": {
+                "quantity": 2,
+                "price": 380.0
+            }
+        }
+    }
+]
